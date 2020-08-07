@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source projects in the DE field to get involved
 - ⚡ Fun fact: I love to read and play video games
 
-<img align="left" alt="Alexis's github stats" src="(https://github-readme-stats.vercel.app/api?username=alexismanuel&show_icons=true&hide_border=true&count_private=true">
+<img align="left" alt="Alexis's github stats" src="https://github-readme-stats.vercel.app/api?username=alexismanuel&show_icons=true&hide_border=true&count_private=true">
