@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Alexis 👋
 
 <!--
 **alexismanuel/alexismanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Data Engineer at @ZeroGachis
+- 🌱 I’m currently learning everything about the role 😍
+- 👯 I’m looking to collaborate on Open Source projects in the DE field to get involved
+- ⚡ Fun fact: I love to read and play video games
+
+![Alexis's github stats](https://github-readme-stats.vercel.app/api?username=alexismanuel&sho_icons=true&hide_border=true&count_private=true)
