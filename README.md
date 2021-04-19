@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a Data Engineer at @ZeroGachis
-- 🌱 I’m currently learning everything about the role 😍
+- 🌱 I’m currently learning Vue3 
 - 👯 I’m looking to collaborate on Open Source projects in the DE field to get involved
 - ⚡ Fun fact: I love to read and play video games
 
