@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a Data Engineer at @ZeroGachis
-- 🌱 I’m currently learning Static Website and SPAs developement 
-- 👯 I’m looking to collaborate on Open Source projects in the DE field to get involved
-- ⚡ Fun fact: I love to read and play video games
+- 🌱 I’m currently learning more about Software & Cloud Design Patterns
+- 👯 I’m looking to collaborate on Open Source projects in order to get involved
+- ⚡ Fun fact: I love to read, play video games (while streaming occasionally) and take care of my home plants.
 
 <img align="left" alt="Alexis's github stats" src="https://github-readme-stats.vercel.app/api?username=alexismanuel&show_icons=true&hide_border=true&count_private=true">
 <!--<img align="left" alt="Alexis's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexismanuel&hide_border=true">
