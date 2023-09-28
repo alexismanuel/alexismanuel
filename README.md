@@ -1,24 +1,37 @@
-### Hi there, I'm Alexis 👋
+# Hi, I'm Alexis👋
 
-<!--
-**alexismanuel/alexismanuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Data Engineer based in France, specializing in cloud-native solutions, Python software engineering and end-to-end data platform implementation. My mission is to leverage data and software engineering practices to help companies solve complex business challenges and efficiently delivering maximum value.
 
-Here are some ideas to get you started:
+## 🔧 Expertise
+3 years of prior Software Engineering experience (apprenticeship)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+4 years of current Data Engineering experience
 
-## I'm a Data Engineer at BOXY
-- 🌱 I’m currently learning more about Software & Cloud Design Patterns
-- 👯 I’m looking to collaborate on Open Source projects in order to get involved
-- ⚡ Fun fact: I love to read, play video games (while streaming occasionally) and take care of my home plants.
+- **Cloud Practices**: Proficient in cloud technologies with hands-on experience across various Cloud providers (AWS & GCP).
+- **Software Engineering**: Strong software engineering background within multiple team organization to deliver robust and scalable solutions using Python.
+- **Data Platforms**: Ownership and product management of end-to-end data platforms within startup environments.
+
+## 🚀 What I Do
+
+I love applying my skills to solve real-world problems and continuously improve my craft. Here's what I bring to the table:
+
+- **Business oeriented**: I'm passionate about applying technology to solve challenging business problems by including Product culture and practices into my delivery process.
+- **Startup Experience**: Strong ownership of cost effective data platforms using modern cloud technologies within startups. I experienced various business situations like leading the scaling up of a data team during a first money rising, and also quickly pivoting the data strategy because of business model pivots. 
+- **Learning**: I thrive on learning from peers and staying updated with the latest industry trends. I am also used to quickly add up new skills to adapt to existing technogical environment.
+
+## 🎓 Education
+
+- Master's Degree in Software Engineering in Apprenticeship
+
+## 🔗 Let's Connect
+
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/alexismanuel/)
+
+## 🌟 Looking Ahead
+
+I'm currently working on exciting personal projects and exploring new horizons. Join me on this journey as we build innovative solutions and unlock the limitless potential of data!
+
+Feel free to reach out, and let's collaborate on impactful projects.
 
 <img align="left" alt="Alexis's github stats" src="https://github-readme-stats.vercel.app/api?username=alexismanuel&show_icons=true&hide_border=true&count_private=true">
 <!--<img align="left" alt="Alexis's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexismanuel&hide_border=true">
