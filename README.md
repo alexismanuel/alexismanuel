@@ -1,6 +1,6 @@
 # Hi, I'm Alexis👋
 
-I'm a passionate Data Engineer based in France, specializing in cloud-native solutions, Python software engineering and end-to-end data platform implementation. My mission is to leverage data and software engineering practices to help companies solve complex business challenges and efficiently delivering maximum value.
+I'm a passionate Data Engineer based in France. I specialize in cloud-native solutions, Python software engineering and end-to-end data platform implementation. My mission is to leverage data and software engineering practices to help companies solve complex business challenges and efficiently delivering maximum value.
 
 ## 🔧 Expertise
 3 years of prior Software Engineering experience (apprenticeship)
@@ -15,7 +15,7 @@ I'm a passionate Data Engineer based in France, specializing in cloud-native sol
 
 I love applying my skills to solve real-world problems and continuously improve my craft. Here's what I bring to the table:
 
-- **Business oeriented**: I'm passionate about applying technology to solve challenging business problems by including Product culture and practices into my delivery process.
+- **Business oriented**: I'm passionate about applying technology to solve challenging business problems by including Product culture and practices into my delivery process.
 - **Startup Experience**: Strong ownership of cost effective data platforms using modern cloud technologies within startups. I experienced various business situations like leading the scaling up of a data team during a first money rising, and also quickly pivoting the data strategy because of business model pivots. 
 - **Learning**: I thrive on learning from peers and staying updated with the latest industry trends. I am also used to quickly add up new skills to adapt to existing technogical environment.
 
