@@ -32,6 +32,3 @@ I love applying my skills to solve real-world problems and continuously improve 
 I'm currently working on exciting personal projects and exploring new horizons. Join me on this journey as we build innovative solutions and unlock the limitless potential of data!
 
 Feel free to reach out, and let's collaborate on impactful projects.
-
-<img align="left" alt="Alexis's github stats" src="https://github-readme-stats.vercel.app/api?username=alexismanuel&show_icons=true&hide_border=true&count_private=true">
-<!--<img align="left" alt="Alexis's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexismanuel&hide_border=true">
