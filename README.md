@@ -5,7 +5,7 @@ I'm a Data Engineer based in France. I specialize in cloud-native solutions, Pyt
 ## 🔧 Expertise
 3 years of prior Software Engineering experience (apprenticeship)
 
-4 years of current Data Engineering experience
+5 years of current Data Engineering experience
 
 - **Cloud Practices**: Proficient in cloud technologies with hands-on experience across various Cloud providers (AWS & GCP).
 - **Software Engineering**: Strong software engineering background within multiple team organization to deliver robust and scalable solutions using Python.
