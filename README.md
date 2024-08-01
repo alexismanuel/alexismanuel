@@ -8,7 +8,7 @@ I'm a Data Engineer based in France. I specialize in cloud-native solutions, Pyt
 5 years of current Data Engineering experience
 
 - **Cloud Practices**: Proficient in cloud technologies with hands-on experience across various Cloud providers (AWS & GCP).
-- **Software Engineering**: Strong software engineering background within multiple team organization to deliver robust and scalable solutions using Python.
+- **Software Engineering**: Strong software engineering background within multiple team organization to deliver robust and scalable solutions using Python (also a Go enthousiast 👀).
 - **Data Platforms**: Ownership and product management of end-to-end data platforms within startup environments.
 
 ## 🚀 What I Do
