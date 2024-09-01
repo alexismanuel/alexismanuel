@@ -26,9 +26,3 @@ I love applying my skills to solve real-world problems and continuously improve 
 ## 🔗 Let's Connect
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/alexismanuel/)
-
-## 🌟 Looking Ahead
-
-I'm currently working on exciting personal projects and exploring new horizons. Join me on this journey as we build innovative solutions and unlock the limitless potential of data!
-
-Feel free to reach out, and let's collaborate on impactful projects.
