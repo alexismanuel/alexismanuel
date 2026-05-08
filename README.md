@@ -1,28 +1,65 @@
-# Hi, I'm Alexis👋
+# Hi, I'm Alexis 👋
 
-I'm a Data Engineer based in France. I specialize in cloud-native solutions, Python software engineering and end-to-end data platform implementation. My mission is to leverage data and software engineering practices to help companies solve complex business challenges and efficiently delivering maximum value.
+Data Engineer with 3 years of software engineering and going on 7 years of data engineering experience. I build reliable, scalable data platforms; from ingestion to analytics; and I care as much about the business impact as the technical craft.
 
-## 🔧 Expertise
-3 years of Software Engineering experience (apprenticeship)
+Currently at [Continuity](https://www.continuity-tech.ai/), a French insurtech helping P&C insurers qualify and monitor risk through AI and open data.
 
-6 years of current Data Engineering experience
+pi coding agent + cmux + nvim enthusiast.
 
-- **Cloud Practices**: Proficient in cloud technologies with hands-on experience across various Cloud providers (AWS & GCP).
-- **Software Engineering**: Strong software engineering background within multiple team organization to deliver robust and scalable solutions using Python (also a Go enthousiast 👀).
-- **Data Platforms**: Ownership and product management of end-to-end data platforms within startup environments.
+---
 
-## 🚀 What I Do
+## Hobby Projects
 
-I love applying my skills to solve real-world problems and continuously improve my craft. Here's what I bring to the table:
+**[abcd](https://github.com/alexismanuel/abcd)** — dbt for context engineering. Compose LLM calls into a DAG: declarative YAML models, `{{ ref() }}` dependencies, content-hashed caching and selective execution. Treats prompt chains as a build system instead of ad-hoc scripts.
 
-- **Business oriented**: I'm passionate about applying technology to solve challenging business problems by including Product culture and practices into my delivery process.
-- **Startup Experience**: Strong ownership of cost effective data platforms using modern cloud technologies within startups. I experienced various business situations like leading the scaling up of a data team during a first money rising, and also quickly pivoting the data strategy because of business model pivots. 
-- **Learning**: I thrive on learning from peers and staying updated with the latest industry trends. I am also used to quickly add up new skills to adapt to existing technogical environment.
+**[nogo](https://github.com/alexismanuel/nogo)** — Zero-config Notion cache reader for macOS. Reads the local Notion desktop cache and converts pages to Markdown on demand — no API, no setup, instant runs.
 
-## 🎓 Education
+**[pigeon](https://github.com/alexismanuel/pigeon)** — A custom pi coding agent implementation in Go. The agent that will power my own daily development workflow.
 
-- Master's Degree in Software Engineering in Apprenticeship
+---
 
-## 🔗 Let's Connect
+## What I work on
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/alexismanuel/)
+**Data platforms & orchestration**
+Designing and standardizing data workflows with a focus on reliability, maintainability and data quality. At Continuity, I standardized Dagster-based orchestration across pipelines, reducing onboarding time for new data sources and cutting production incidents.
+
+**Geospatial & open data**
+Building systems on top of large public datasets (buildings, parcels, geographic risks, INSEE, INPI, BODACC). I extended a geographic risk query engine that improved coverage and consistency of risk signals for underwriters, and optimized a critical geo ingestion pipeline to run in hours instead of days; while using 4× fewer compute resources.
+
+**Data product ownership**
+I own projects end-to-end. Recent examples: a company-wide Data Catalog rollout that improved data discoverability across teams, a full analytics stack rebuild, and an international risk scanning data platform from design to deployment.
+
+**Gen AI**
+Driving practical AI adoption within engineering and operational teams, from establishing best practices to deploying AI agents (via LibreChat and Jira Rovo) used daily by HR, PM and ops teams.
+
+---
+
+## Core contributions
+
+- Designed and shipped a geographic risk query engine on top of public building, parcel and hazard datasets, improving risk signal coverage for P&C insurance underwriters
+- Cut a critical geo data pipeline from several days to hours, reducing compute resource usage by 4× while improving resilience
+- Reduced data team operating costs by 60% through infrastructure rationalisation and open source tooling — without sacrificing reliability
+- Built a near real-time IoT billing platform and a fraud detection API, with sub-second response times and 100% data completion rate
+- Migrated a hypergrowth startup to a Modern Data Stack; brought new data source integration from days to hours via a generic, idempotent CDC ingestion strategy
+- Built an end-to-end ML platform serving tens of millions of daily recommendations across 600+ stores in Europe
+- Grew and led a team of 3 Data Engineers from 0 to full autonomy; hit 100% of annual objectives
+
+---
+
+## Stack
+
+**Languages** · Python · Go
+
+**Cloud** · AWS · GCP
+
+**Orchestration** · Dagster
+
+**Data** · dbt · DuckDB · Snowflake · Polars · SQL · PostGIS
+
+**Infra** · Docker · Terraform · Kubernetes
+
+---
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/alexismanuel/) · Cholet, France · Open to remote
