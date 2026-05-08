@@ -16,6 +16,7 @@ pi coding agent + cmux + nvim enthusiast.
 
 **[pigeon](https://github.com/alexismanuel/pigeon)** — A custom pi coding agent implementation in Go. The agent that will power my own daily development workflow.
 
+Also vibe coding some games 👀
 ---
 
 ## What I work on
