@@ -34,21 +34,8 @@ I own projects end-to-end. Recent examples: a company-wide Data Catalog rollout 
 **Gen AI**
 Driving practical AI adoption within engineering and operational teams, from establishing best practices to deploying AI agents (via LibreChat and Jira Rovo) used daily by HR, PM and ops teams.
 
----
 
-## Core contributions
-
-- Designed and shipped a geographic risk query engine on top of public building, parcel and hazard datasets, improving risk signal coverage for P&C insurance underwriters
-- Cut a critical geo data pipeline from several days to hours, reducing compute resource usage by 4× while improving resilience
-- Reduced data team operating costs by 60% through infrastructure rationalisation and open source tooling — without sacrificing reliability
-- Built a near real-time IoT billing platform and a fraud detection API, with sub-second response times and 100% data completion rate
-- Migrated a hypergrowth startup to a Modern Data Stack; brought new data source integration from days to hours via a generic, idempotent CDC ingestion strategy
-- Built an end-to-end ML platform serving tens of millions of daily recommendations across 600+ stores in Europe
-- Grew and led a team of 3 Data Engineers from 0 to full autonomy; hit 100% of annual objectives
-
----
-
-## Stack
+## Human Stack
 
 **Languages** · Python · Go
 
